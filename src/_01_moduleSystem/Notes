@@ -1,0 +1,5 @@
+Java 9 öncesi modül sistemi maven, gradle gibi araçlar ile sağlanıyordu.
+
+Java 9 ile birlikte gelen modül sistemi ile birlikte JDK içerisinde modül sistemi özelliği gelmiş oldu.
+
+Modül sistemi özelliği ile birlikte geliştirmeler modüllere göre yapılarak özel bir dosya(module-info) ile projeye dahil edilir.
