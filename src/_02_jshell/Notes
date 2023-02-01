@@ -1,0 +1,8 @@
+- Bir çok programlama dili tarafından desteklenen REPL yani Read-Eval-Print-Loop desteği Java 9 ile birlikte Java programlama diline eklenmiştir.
+- Bu özellik sayesinde Java kodlarını proje açmadan jshell aracı ile kolayca yapmayı sağlar.
+- Aracı çalıştırmak için JDK dizinini işletim sistemi ortam değişkenlerine ekledikten sonra komut yorumlayıcısına (CMD, PowerShell, Bash) jshell yazarak araca erişim sağlanır.
+- Araç açıldıktan sonra Java kodları yazılarak çalıştırılabilir.
+
+Örneğin; Aşağıdaki komudu yazıp enter tuşuna basıldığına ekrana “Merhaba JShell” yazacaktır.
+
+System.out.println("Merhaba JShell");
