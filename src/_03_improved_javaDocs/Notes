@@ -1,0 +1,3 @@
+- Java belgeleri, javadoc aracı kullanılarak oluşturulabilir.
+- Şu anda html 4.0 biçiminde belgeler üretmektedir.
+- Java 9'da, komut satırı argümanlarında -html5 seçeneğini kullanarak html 5 formatında dokümantasyon oluşturabiliriz.
