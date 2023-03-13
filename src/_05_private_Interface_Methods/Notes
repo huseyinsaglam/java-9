@@ -1,0 +1,17 @@
+- Java 8'den önce, arabirimler aşağıdaki türde değişkenlere/yöntemlere sahip olabilir.
+Constant variables (sabit değişkenler)
+Abstract methods (Soyut yöntemler)
+
+- Java 8 ile arabirimler aşağıdaki türde değişkenlere/yöntemlere sahip olabilir.
+Constant variables (sabit değişkenler)
+Abstract methods (Soyut yöntemler)
+Default methods
+Static methods
+
+- Java 9 ile arabirimler aşağıdaki türde değişkenlere/yöntemlere sahip olabilir.
+Constant variables (sabit değişkenler)
+Abstract methods (Soyut yöntemler)
+Default methods
+Static methods
+Private methods
+Private Static methods
