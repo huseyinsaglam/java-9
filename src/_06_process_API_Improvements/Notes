@@ -1,0 +1,9 @@
+Process Nedir ?
+Her program çalışırken kendi process i ile çalışır.
+Yani programın ram üzerindeki executable dosyasıdır.
+Bu durum işletim sistemine göre farklılık gösterebilir..
+Ve java programındaki bir işlem başka bir işlemi kapsayamaz.
+
+İşlemleri Çalıştırma : Fakat ProcessBuilder ile -in java.lang.ProcessBuilder
+Diğer işletim sistemlerinde çalışabilir uygulamaları çalıştıramayabilriz.
+Bunun için harici EXE dosyalarını kullanmamız gerekir. Yani Windowstaki EXE dosyaları.
