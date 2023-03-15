@@ -1,0 +1,5 @@
+Reader: Karakter tabanlı dosyalardaki karakterlerin okunmanı sağlar.
+Altsınıfları:
+- BufferedReader
+- InputStreamReader
+- StringReader
