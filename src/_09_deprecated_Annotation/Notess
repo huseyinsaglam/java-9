@@ -1,0 +1,14 @@
+@Deprecated ek açıklama, java 5 sürümünde tanıtıldı.
+@Deprecated ile açıklama eklenmiş bir program öğesi, aşağıdaki nedenlerden herhangi biri için kullanılmaması gerektiği anlamına gelir.
+
+- Kullanımı hatalara yol açabilir.
+- Gelecekteki sürümde uyumsuz olabilir.
+- Gelecekteki sürümde kaldırılabilir.
+- Daha iyi ve verimli bir alternatif onun yerini aldı.
+- Derleyici, kullanımdan kaldırılmış bir öğe kullanıldığında uyarılar üretir.
+
+-Java 9 ile, @Deprecated annotation iki yeni geliştirme yapılmıştır.
+
+1) forRemoval - Açıklamalı öğenin gelecekteki bir sürümde kaldırılıp kaldırılmayacağını belirtir. Varsayılan değer yanlıştır.
+
+2) since - Açıklamalı öğenin kullanımdan kaldırıldığı sürümü döndürür. Varsayılan değer boş dizedir.
