@@ -1,0 +1,5 @@
+- Diamond operatörü <>, kodu daha okunabilir hale getirmek için java 7'de tanıtıldı, ancak Anonymous iç sınıflarıyla kullanılamadı.
+- Java 9'da, kodu basitleştirmek ve okunabilirliği artırmak için anonim sınıfla da kullanılabilir. Java 9'dan önce aşağıdaki şekilde kullanılıyordu.
+         Handler<Integer> intHandler = new Handler<Integer>(1)
+- Java 9 ile <> operatörünü aşağıda gösterildiği gibi anonim sınıf ile de kullanabiliriz.
+         Handler<Integer> intHandler = new Handler<>(1)
